@@ -1,4 +1,4 @@
-# Hello Coders !! ![Waving Hand](https://cliply.co/clip/waving-hand/)
+# Hello Coders !! ![](https://tenor.com/VDLp.gif)
 ### I am Sandhya Agarwal
 
 
