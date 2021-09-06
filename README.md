@@ -8,9 +8,9 @@ I am a tech geek, a creative content writer, and an aspiring full-stack web-deve
 
 <ul>
 
- <li> -🔭 Currently polishing my web development skills. </li>
- <li> -🌱 Drafting new content almost every month. </li>
- <li> -💬 Can help you with web development & content writing. </li>
- <li> -📫 Reach out to me at : sandhyaagarwal03180@gmail.com . </li>
+ <li> 🔭 Currently polishing my web development skills. </li>
+ <li> 🌱 Drafting new content almost every month. </li>
+ <li> 💬 Can help you with web development & content writing. </li>
+ <li> 📫 Reach out to me at : sandhyaagarwal03180@gmail.com . </li>
 
 </ul>
