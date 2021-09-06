@@ -3,8 +3,8 @@
 
 ## About Me 🧐!!
 
-I am a tech geek , a creative content writer and an aspiring full stack web-developer. I love building websites 👩🏻‍💻
-> Websites promote you 24/7: No employee will do that.
+I am a tech geek , a creative content writer and an aspiring full stack web-developer. I love playing with the code (not too much that it creates bugs🤪) After all : 
+> Websites promote you 24/7: No employee will do that. 
 
 
 
