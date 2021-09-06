@@ -2,7 +2,6 @@
 <h1 align="center">Hello Coders 👋, I'm Sandhya Agarwal</h1>
 
 ## About Me 🧐!!
-<hr>
 
 I am a tech geek, a creative content writer, and an aspiring full-stack web-developer, pursuing my undergraduates from India. I believe  Paul Cookson's golden words 
 > Websites promote you 24/7: No employee will do that. 🙌🏻
