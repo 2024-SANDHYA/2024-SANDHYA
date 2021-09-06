@@ -6,3 +6,9 @@
 I am a tech geek, a creative content writer, and an aspiring full-stack web-developer, pursuing my undergraduates from India. I believe  Paul Cookson's golden words 
 > Websites promote you 24/7: No employee will do that. 🙌🏻
 
+
+ -🔭 Currently polishing my web development skills.
+ -🌱 Drafting new content almost every month.
+ -💬 Can help you with web development & content writing. 
+ -📫 Reach out to me at : sandhyaagarwal03180@gmail.com .
+
