@@ -3,7 +3,7 @@
 
 ## About Me 🧐
 
-I am a web dev enthusiast and a creative content write.Currently pursuing my undergraduates from India. I believe Paul Cookson's golden words 
+I am a web dev enthusiast and a creative content writer .Currently pursuing my undergraduates from India. I believe Paul Cookson's golden words 
 > Websites promote you 24/7: No employee will do that. 🙌🏻
 
 <ul>
