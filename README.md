@@ -1,9 +1,9 @@
 <p align="center"> <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Hello" /> </p>
 <h1 align="center">Hello Coders <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Sandhya Agarwal</h1>
 
-## About Me 🧐!!
+## About Me 🧐
 
-I am a tech geek, a creative content writer, and an aspiring full-stack web-developer, pursuing my undergraduates from India. I believe  Paul Cookson's golden words 
+I am a web dev enthusiast and a creative content write.Currently pursuing my undergraduates from India. I believe Paul Cookson's golden words 
 > Websites promote you 24/7: No employee will do that. 🙌🏻
 
 <ul>
