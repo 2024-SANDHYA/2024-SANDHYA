@@ -3,7 +3,7 @@
 
 ## About Me 🧐
 
-A web dev currently pursuing my undergraduates from India.My interest lies in Dev & UI/UX.I believe Paul Cookson's golden words 
+A Web Dev currently pursuing my undergraduates from India. My interest lies in Dev & UI/UX. I believe Paul Cookson's golden words 
 > Websites promote you 24/7: No employee will do that. 🙌🏻
 
 <ul>
@@ -11,6 +11,6 @@ A web dev currently pursuing my undergraduates from India.My interest lies in De
  <li> 🔭 Currently polishing my web development skills. </li>
  <li> 🌱 Drafting new content almost every month. </li>
  <li> 💬 Can help you with web development & UI/UX. </li>
- <li> 📫 Reach out to me at : sandhyaagarwal03180@gmail.com . </li>
+ <li> 📫 Reach out to me at : sandhyaagarwal03180@gmail.com. </li>
 
 </ul>
