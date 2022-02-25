@@ -3,7 +3,7 @@
 
 ## About Me 🧐
 
-A Web Dev currently pursuing my undergraduates from India. My interest lies in Dev & UI/UX. I believe Paul Cookson's golden words 
+A developer highly interested in Web Development & UI/UX. I believe Paul Cookson's golden words 
 > Websites promote you 24/7: No employee will do that. 🙌🏻
 
 <ul>
