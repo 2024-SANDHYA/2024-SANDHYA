@@ -3,12 +3,12 @@
 
 ## About Me 🧐
 
-A developer highly interested in Web Development & UI/UX. I believe Paul Cookson's golden words 
+I am a web developer & UI/UX developer. I believe Paul Cookson's golden words 
 > Websites promote you 24/7: No employee will do that. 🙌🏻
 
 <ul>
 
- <li> 🔭 Currently polishing my web development skills. </li>
+ <li> 🔭 Currently working as a Web Developer & IT Intern @Basket Hunt </li>
  <li> 🌱 Drafting new content almost every month. </li>
  <li> 💬 Can help you with web development & UI/UX. </li>
  <li> 📫 Reach out to me at : sandhyaagarwal03180@gmail.com. </li>
